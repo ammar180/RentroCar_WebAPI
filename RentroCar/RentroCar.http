@@ -1,0 +1,6 @@
+@RentroCar_HostAddress = http://localhost:5271
+
+GET {{RentroCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
